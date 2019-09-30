@@ -56,7 +56,7 @@
   "homepage": "https://github.com/mmarkelov/react-nouislider",
   "license": "MIT",
   "dependencies": {
-    "nouislider": "^14.0.2"
+    "nouislider": "https://github.com/satendra02/noUiSlider.git"
   },
   "peerDependencies": {
     "nouislider": ">= 11.x",
